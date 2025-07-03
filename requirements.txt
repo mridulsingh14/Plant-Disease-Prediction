@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+gradio
+numpy
+keras
+tensorflow
+p pillow
+scikit-learn
+matplotlib 
